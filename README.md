@@ -1,7 +1,8 @@
-![Linguagens](https://vercel.app)
+<img src="https://vercel.app" />
 
-![Trofeus](https://vercel.app)
+<img src="https://vercel.app" />
 
-![Visitas](https://glitch.me)
+<img src="https://glitch.me" />
+
 
 
