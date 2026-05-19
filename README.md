@@ -1,8 +1,7 @@
-<div align="center">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</div>
+
+[![Top Langs](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
