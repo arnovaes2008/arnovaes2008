@@ -1,8 +1,8 @@
-![Linguagens](https://vercel.app)
-
-![Trofeus](https://vercel.app)
-
-![Visitas](https://komarev.com)
+<div align="center">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</div>
 
 
 
