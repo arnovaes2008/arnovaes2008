@@ -2,7 +2,8 @@
 
 ![Trofeus](https://vercel.app)
 
-![Visitas](https://glitch.me)
+![Visitas](https://komarev.com)
+
 
 
 
